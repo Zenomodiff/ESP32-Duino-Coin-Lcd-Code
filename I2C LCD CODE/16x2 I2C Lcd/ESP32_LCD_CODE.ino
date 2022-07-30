@@ -1,7 +1,7 @@
 /*feel free to contact
  * sreeramaj53@gmail.com
  * www.youtube.com/ZenoModiff
- * last updated - time 10:26 AM - date 30 june 2022
+ * last updated - time 10:31 AM - date 30 june 2022
  * Github Link :-- https://github.com/Zenomodiff/ESP32-Duino-Coin-Lcd-Code
  * This code is written for esp32 with i2c lcd display and the display is 16*2 in size 
  * 
@@ -106,7 +106,7 @@ return;
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("Loading...");
-   delay(500);
+  delay(500);
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("Loading....");
