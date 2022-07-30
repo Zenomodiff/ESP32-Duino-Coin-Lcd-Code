@@ -4,6 +4,7 @@
  * last updated - time 09:50 AM - date 30 june 2022
  * Github Link :-- https://github.com/Zenomodiff/ESP32-Duino-Coin-Lcd-Code
  * This code is written for esp32 with i2c lcd display and the display is 20*4 in size 
+ * Version :- V 1.0
  * 
  * LCD CONNECTIONS TO ESP32
  * 
