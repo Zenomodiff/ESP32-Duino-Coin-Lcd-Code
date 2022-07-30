@@ -125,6 +125,6 @@ void loop()
 {
  
 apiCall();
-delay(10000);
+delay(5000);
 
 }
