@@ -1,3 +1,12 @@
+/* feel free to contact
+ * sreeramzeno@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 01:53 AM - date 08 april 2024
+ * Github Link :-- https://github.com/Zenomodiff/ESP32-Duino-Coin-Lcd-Code
+ * This code is written for esp32 for mining using its cores
+ * Version :- V 1.9
+ */
+
 #include <ArduinoJson.h>
 
 #if defined(ESP8266)
